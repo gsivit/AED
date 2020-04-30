@@ -11,7 +11,7 @@
 
 ## Etapa #2: Diseño de la solución
 
-- **Léxico del Algoritmo:**  std::cout <<"Hello, world\n";
+- **Léxico del Algoritmo:** 
 - **Representación del Algoritmo:** 
 	-Representacion visual:
 		![Representacion visual](https://i.ibb.co/bRjvLC4/diagramaflujoadicion.png)

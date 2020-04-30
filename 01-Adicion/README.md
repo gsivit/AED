@@ -16,7 +16,7 @@
 	-Representacion visual:
 		![Representacion visual](https://i.ibb.co/bRjvLC4/diagramaflujoadicion.png)
 
-	-Representacion textual:
-		LEER n1
-		LEER n2
+	-Representacion textual:  
+		LEER n1  
+		LEER n2  
 		MOSTRAR n1+n2
